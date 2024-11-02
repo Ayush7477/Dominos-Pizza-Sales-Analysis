@@ -1,4 +1,6 @@
 # Domino's Pizza Sales Data Analysis Project
+![Dominos-logo](https://github.com/user-attachments/assets/4ff8447f-6d3f-4748-8d9b-89e390309dd2)
+
 
 ## Overview
 This project undertakes an in-depth analysis of Domino's Pizza sales data, offering valuable insights and a comprehensive dashboard tailored for informed, data-driven decisions. Through the use of SQL, Python, and Excel, we systematically extract, validate, process, and visualize data, culminating in an interactive dashboard that enables the client to monitor essential metrics such as total revenue, order trends, and product performance. This project equips the client with tools to optimize inventory, streamline operations, and strategically target marketing efforts based on customer behavior.
